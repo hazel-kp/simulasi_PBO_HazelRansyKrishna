@@ -6,7 +6,7 @@
 
 class Database {
     private $host = 'localhost';
-    private $db_name = 'pendaftaran_db'; // Ganti dengan nama database Anda
+    private $db_name = 'db_simulasi_pbo_trpl1a_hazelransykrishna'; // Ganti dengan nama database Anda
     private $username = 'root';          // Ganti dengan username database Anda
     private $password = '';              // Ganti dengan password database Anda
     private $charset = 'utf8mb4';
